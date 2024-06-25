@@ -1,0 +1,10 @@
+Việc cần làm:
+- Làm Background
+- Tương tác
+- Quy luật
+- Đóng gói trò chơi
+- Thêm cài đặt
+
+Việc đã làm:
+- Làm Background
+- Tương tác
